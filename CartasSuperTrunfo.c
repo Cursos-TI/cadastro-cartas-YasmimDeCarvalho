@@ -12,6 +12,13 @@ int main() {
 
   // Área para exibição dos dados da cidade
   printf("Teste commit!");
+  
+  /*
+  comentario para saber se consegui add esse carai no vs code 
+  porque nao quero usar online workspace do github
+  
+  
+  */
 
 return 0;
 } 
